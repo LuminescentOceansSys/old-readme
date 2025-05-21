@@ -57,8 +57,6 @@ if this feels familiar at all, we had to remake our GitHub because we lost our p
  
 
 
-
-
   
 
 [^1]:[(https://open.spotify.com/user/31t6iahnmjtxuosnnwfe3dhwkcsa?si=4JTg4ga7QimpMi56UOJsiA)]
