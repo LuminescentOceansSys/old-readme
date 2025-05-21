@@ -40,7 +40,7 @@ ___________________________________
 
 [╭ ♡‧₊ Straw Page](https://uminescentoceans.straw.page/)
 
-[: ''◟∫ 🌊¯ Who's Fronting ?](https://pluralkit.xyz/f/gkrvpo)
+[: ''◟∫ 🌊¯ Frontb/ Sys info](https://pluralkit.xyz/f/gkrvpo)
 
 if this feels familiar at all, we had to remake our GitHub because we lost our password to it.
 
