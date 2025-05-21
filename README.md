@@ -18,6 +18,8 @@
 
  🐾`` @,,- 《 Hosts are Chris and Martin Kratt fictives
 
+if this feels familiar at all, we had to remake our GitHub because we lost our password to it.
+
 </div>
 
 <div align="center">
