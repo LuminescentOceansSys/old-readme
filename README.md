@@ -11,7 +11,17 @@
 <div align="center">
 ×
 <div align="center">
-╔═══════ ≪ °•°♡°•° ≫ ═══════╗
+
+<p align="center"
+  
+<p align="center"> $${\color{blue}
+  Ocean    or    Bio    Collectively }$$
+<p align="center"> $${\color{cyan}
+  almost    every    link    is    in    linktree;   }$$
+<p align="center"> $${\color{blue}
+  info  below }$$
+
+ ╔═══════ ≪ °•°♡°•° ≫ ═══════╗
 
 
 '𝕖𝕟𝕕𝕠𝕘𝕖𝕟𝕚𝕔' + 𝕓𝕒𝕤𝕚𝕔 𝕕𝕟𝕚, .𝕔𝕔 𝕎𝕀ℙ  , 𝔻𝕀𝔻𝕤𝕪𝕤 , 𝕕𝕚𝕒𝕘𝕟𝕠𝕤𝕖𝕕 × 𝕓𝕠𝕕𝕚𝕝𝕪 𝕞𝕚𝕟𝕠𝕣, 𝕚𝕨𝕔
