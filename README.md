@@ -1,6 +1,9 @@
 
 <p align="center"> ${{\color{#31E0F7}\Huge{\texttt{✫Lum𝕚n𝕖𝕤c𝕖nt Oc𝕖an𝕤}}}}$ </p>
 
+![1000000805](https://github.com/user-attachments/assets/1618bd11-dbd9-4e0b-8735-2779646a63e3)
+
+
 <div align="center">
  
 <div align="center">
