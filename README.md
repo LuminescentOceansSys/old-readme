@@ -38,7 +38,7 @@ ___________________________________
 
 [── .✦ Ata Book](https://ssc.atabook.org/)
 
-[🍀`` @,,- 《 Link Tree](https://linktr.ee/FormTak3rzz)
+[╭ ♡‧₊ Straw Page](https://uminescentoceans.straw.page/)
 
 [: ''◟∫ 🌊¯ Who's Fronting ?](https://pluralkit.xyz/f/gkrvpo)
 
