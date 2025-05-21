@@ -16,6 +16,8 @@
 
  ╚════·:·.✧《 𓏵 } ✧.·:·════╝
 
+ 🐾`` @,,- 《 Hosts are Chris and Martin Kratt fictives
+
 </div>
 
 <div align="center">
