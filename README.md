@@ -36,11 +36,11 @@ ___________________________________
 
 [🍀`` @,,- 《 Link Tree](https://linktr.ee/FormTak3rzz)
 
-[── .✦ Ata Book](https://ssc.atabook.org/)
+[── .✦ 🌟 Ata Book](https://ssc.atabook.org/)
 
 [╭ ♡‧₊ Straw Page](https://uminescentoceans.straw.page/)
 
-[: ''◟∫ 🌊¯ Frontb/ Sys info](https://pluralkit.xyz/f/gkrvpo)
+[: ''◟∫ 🌊¯ Front/ Sys info](https://pluralkit.xyz/f/gkrvpo)
 
 if this feels familiar at all, we had to remake our GitHub because we lost our password to it.
 
