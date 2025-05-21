@@ -34,6 +34,8 @@ ___________________________________
 
 <p align="center"> ${{\color{#59A1C1}{\texttt{╚════·:·.✧《 𓏵 ] ✧.·:·════╝}}}}$ </p>
 
+[🍀`` @,,- 《 Link Tree](https://linktr.ee/FormTak3rzz)
+
 if this feels familiar at all, we had to remake our GitHub because we lost our password to it.
 
  🐾`` @,,- 《 Hosts are Chris and Martin Kratt fictives
