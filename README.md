@@ -38,7 +38,7 @@ ___________________________________
 
 [── .✦ 🌟 Ata Book](https://ssc.atabook.org/)
 
-[╭ ♡‧₊ Straw Page](https://uminescentoceans.straw.page/)
+[╭ ♡‧₊🫧 Straw Page](https://uminescentoceans.straw.page/)
 
 [: ''◟∫ 🌊¯ Front/ Sys info](https://pluralkit.xyz/f/gkrvpo)
 
