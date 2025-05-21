@@ -36,6 +36,8 @@ ___________________________________
 
 [🍀`` @,,- 《 Link Tree](https://linktr.ee/FormTak3rzz)
 
+[: ''◟∫ 🌊¯ Who's Fronting ?](https://pluralkit.xyz/f/gkrvpo)
+
 if this feels familiar at all, we had to remake our GitHub because we lost our password to it.
 
  🐾`` @,,- 《 Hosts are Chris and Martin Kratt fictives
