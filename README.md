@@ -51,7 +51,7 @@ if this feels familiar at all, we had to remake our GitHub because we lost our p
 <div align="center">
  
  
- ![bioplankton](https://komarev.com/ghpvc/?username=LuminescentOceansSys&color=59A1C1)
+ ![bioplankton](https://komarev.com/ghpvc/?username=LuminescentOceansSys&abbreviated=true&label=Bioplankton&color=59A1C1)
  
 
 
