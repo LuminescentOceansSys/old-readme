@@ -4,12 +4,12 @@
 ![1000000805](https://github.com/user-attachments/assets/1618bd11-dbd9-4e0b-8735-2779646a63e3)
 
 
-<div align="center">
- 
-<div align="center">
-•
-<div align="center">
-×
+<p align="center"> $${\color{cyan}
+ ~ }$$
+<p align="center"> $${\color{blue}
+• }$$
+<p align="center"> $${\color{cyan}
+× }$$
 <div align="center">
 
 <p align="center"
@@ -17,7 +17,7 @@
 <p align="center"> $${\color{blue}
   Ocean    or    Bio    Collectively }$$
 <p align="center"> $${\color{cyan}
-  almost    every    link    is    in    linktree;   }$$
+  ⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵‧ ˚ ₊⊹  }$$
 <p align="center"> $${\color{blue}
   info  below }$$
 
