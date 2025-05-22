@@ -44,6 +44,8 @@ ___________________________________
 
 [: ''◟∫ 🌊¯ Front / Sys info](https://pluralkit.xyz/f/gkrvpo)
 
+[.𖥔 ݁ ˖  { Pronouns.cc (wip)](https://pronouns.cc/@Luminescent_Oceans_Sys)
+
 if this feels familiar at all, we had to remake our GitHub because we lost our password to it.
 
  🐾`` @,,- 《 Hosts are Chris and Martin Kratt fictives
