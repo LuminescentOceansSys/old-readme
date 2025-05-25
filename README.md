@@ -72,6 +72,8 @@ if this feels familiar at all, we had to remake our GitHub because we lost our p
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=00ffff)](https://github.com/kittinan/spotify-github-profile)
 
+if anything looks weird on the mobile app I want to apologize. we recently downloaded the mobile app and for some reason doesn't properly display what we had coded. if there's any way to fix this lmk 🙏
+
  <p align="center"> 
   
   ${{\color{#31E0F7}\Huge{\texttt{still learning}}}}$ </p>
