@@ -74,6 +74,8 @@ if this feels familiar at all, we had to remake our GitHub because we lost our p
 
 if anything looks weird on the mobile app I want to apologize. we recently downloaded the app for Android and for some reason doesn't properly display what we had coded. we do everything on mobile, so, if there's any way to fix this lmk 🙏
 
+I'd like to start working on this from the app instead of the website. though the web is much easier the app is way more accessible.
+
  <p align="center"> 
   
   ${{\color{#31E0F7}\Huge{\texttt{still learning}}}}$ </p>
