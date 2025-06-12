@@ -81,11 +81,7 @@ if anything looks weird on the mobile app I want to apologize. we recently downl
 
 I'd like to start working on this from the app instead of the website. though the web is much easier the app is way more accessible.
 
- <p align="center"> 
+ <p align="center">
   
   ${{\color{#31E0F7}\Huge{\texttt{still learning}}}}$ </p>
-
-im shitting a brick idk why its doing this
-
-![IMG_20250610_030711](https://github.com/user-attachments/assets/6206e096-a22b-41d0-a61e-99a8930e77d4)
 
