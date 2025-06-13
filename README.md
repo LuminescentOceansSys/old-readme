@@ -24,7 +24,7 @@ ___________________________________
 <p align="center"> $${\color{blue}
   Ocean    or    Bio    Collectively }$$
 <p align="center"> $${\color{cyan}
-  ⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵‧ ˚ ₊⊹  }$$
+  ⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵. ˚ ₊⊹  }$$
 <p align="center"> $${\color{blue}
   info  below }$$
 
@@ -51,7 +51,7 @@ ___________________________________
 
 [╭ ♡‧₊🫧 Straw Page](https://luminescentoceans.straw.page/)
 
-[: ''◟∫ 🌊¯ Front / Sys info](https://pluralkit.xyz/f/gkrvpo)
+[: ''◟∫ 🌊¯ Frontspace / Sys info](https://pluralkit.xyz/f/gkrvpo)
 
 [.𖥔 ݁ ˖  { Pronouns.cc (wip)](https://pronouns.cc/@Luminescent_Oceans_Sys)
 
