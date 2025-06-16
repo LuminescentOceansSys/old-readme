@@ -57,7 +57,7 @@ ___________________________________
 
 if this feels familiar at all, we had to remake our GitHub because we lost our password to it.
 
- 🐾`` @,,- 《 Hosts are Chris and Martin Kratt fictives
+ 🐾`` @,,- 《 Hosts change a lot ,
 
 </div>
 
