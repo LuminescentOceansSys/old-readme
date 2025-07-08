@@ -1,87 +1,69 @@
-
-<p align="center"> ${{\color{#59A1C1}\Huge{\texttt{✫Lum𝕚n𝕖𝕤c𝕖nt Oc𝕖an𝕤}}}}$ </p>
-
-___________________________________
+<div align="center">
+  
+![Bioplankton](https://komarev.com/ghpvc/?username=LuminescentOceansSys&color=0e1271) </div>
 
 <p align="center"> ${{\color{blue}{\texttt{"𝑰𝒏 𝒕𝒉𝒆 𝒒𝒖𝒊𝒆𝒕 𝒔𝒉𝒊𝒎𝒎𝒆𝒓 𝒐𝒇 𝒘𝒉𝒂𝒕 𝒐𝒏𝒄𝒆 𝒘𝒂𝒔,}}}}$ </p>
 <p align="center"> ${{\color{cyan}{\texttt{𝒂 𝒇𝒂𝒎𝒊𝒍𝒊𝒂𝒓 𝒍𝒊𝒈𝒉𝒕 𝒔𝒕𝒊𝒍𝒍 𝒔𝒐𝒇𝒕𝒍𝒚 𝒄𝒂𝒍𝒍𝒔 𝒎𝒆 𝒉𝒐𝒎𝒆."}}}}$ </p>
-
-<div align="center">
-
-![1000000805](https://github.com/user-attachments/assets/1618bd11-dbd9-4e0b-8735-2779646a63e3)
-
-
-<p align="center"> $${\color{cyan}
-♡ }$$
-<p align="center"> $${\color{blue}
-꧁ ☬ ꧂ }$$
-<p align="center"> $${\color{cyan}
-★ }$$
-<div align="center">
-
-<p align="center"
   
+<div align="center">
+
+ <sub> ![1000000840](https://github.com/user-attachments/assets/89a68ef9-ba7d-49d2-89bd-84bec8f0b91a) </sub>
+
+
+
+# <p align="center"> ${{\color{#0e1271}\Huge{\texttt{╔═════ ≪}}}}$ ${{\color{#59A1C1}\Huge{\texttt{  𐔌   .  ⋮ }}}}$ ${{\color{cyan}\Huge{\texttt{𝙄𝙣𝙛𝙤}}}}$ ${{\color{#59A1C1}\Huge{\texttt{  .ᐟ  ֹ   ₊ ꒱ }}}}$ ${{\color{#0e1271}\Huge{\texttt{≫ ═════╗}}}}$</p>
+
+ 
+<sub> ${{\color{gray}{\texttt{Fict/Intrj hvy to neurodivergency}}}}$ </sub>
+
+ <p> ${{\color{blue}{\texttt{𝔻.𝕀.𝔻.}}}}$ ${{\color{cyan}{\texttt{𝕤𝕪𝕤 , }}}}$ ${{\color{blue}{\texttt{𝕕𝕚𝕒𝕘𝕟𝕠𝕤𝕖𝕕}}}}$ ${{\color{cyan}{\texttt{×}}}}$ ${{\color{blue}{\texttt{𝕓𝕠𝕕𝕚𝕝𝕪 𝕞𝕚𝕟𝕠𝕣,}}}}$</p>
+
+ <div align="center">
+            
+                   Ocean    or    Bio    Collectively                        
+            
+                        
+            
+
+   ${{\color{blue}{\texttt{┆ ⤿ 💌 ⌗ }}}}$ ``𝙀𝙣𝙙𝙤𝙜𝙚𝙣𝙞𝙘 𝙨𝙮𝙨𝙩𝙚𝙢𝙨 𝙖𝙧𝙚 𝙤𝙣 𝙩𝙝𝙞𝙣 𝙞𝙘𝙚.`` 𝙄 𝙪𝙣𝙙𝙚𝙧𝙨𝙩𝙖𝙣𝙙 𝙩𝙝𝙚 𝙧𝙚𝙖𝙨𝙤𝙣𝙨 𝙢𝙖𝙣𝙮 𝙢𝙖𝙮 𝙩𝙝𝙞𝙣𝙠 𝙩𝙝𝙚𝙮 𝙘𝙤𝙪𝙡𝙙 𝙗𝙚 𝙖𝙣 𝙚𝙣𝙙𝙤𝙜𝙚𝙣𝙞𝙘 𝙨𝙮𝙨𝙩𝙚𝙢. 𝙋𝙡𝙚𝙖𝙨𝙚 𝙖𝙥𝙥𝙧𝙤𝙖𝙘𝙝 𝙪𝙨 𝙬𝙞𝙩𝙝 𝙘𝙖𝙪𝙩𝙞𝙤𝙣. ``𝘾𝙡𝙖𝙞𝙢𝙞𝙣𝙜 𝙩𝙤 𝙗𝙚 𝙚𝙣𝙙𝙤𝙜𝙚𝙣𝙞𝙘 𝙖𝙨 𝙖𝙣 𝙚𝙭𝙘𝙪𝙨𝙚 𝙛𝙤𝙧 𝙮𝙤𝙪𝙧 𝙤𝙬𝙣 𝙨𝙚𝙡𝙛 𝙜𝙖𝙞𝙣``, ${{\color{gray}{\texttt{𝙙𝙣𝙞}}}}$ .ᐟ.ᐟ
+
+${{\color{cyan}{\texttt{⊹ ◟ ⭐ ◝ — }}}}$ 𝙒𝙚 𝙜𝙤 𝙞𝙣 𝙖𝙣𝙙 𝙤𝙪𝙩 𝙤𝙛 𝙙𝙤𝙧𝙢𝙖𝙣𝙘𝙮 𝙤𝙛𝙩𝙚𝙣, 𝙣𝙤𝙗𝙤𝙙𝙮 𝙝𝙤𝙡𝙙𝙨 𝙩𝙝𝙚 ' ${{\color{cyan}{\texttt{𝙝𝙤𝙨𝙩}}}}$ ' 𝙧𝙤𝙡𝙚 𝙩𝙤 𝙩𝙝𝙞𝙨.
+
+${{\color{blue}{\texttt{╰┈➤}}}}$ <sub>${{\color{gray}{\texttt{𝐓𝐨𝐧𝐞 𝐭𝐚𝐠𝐬 𝐚𝐫𝐞 𝐠𝐫𝐞𝐚𝐭𝐥𝐲 𝐚𝐩𝐩𝐫𝐞𝐜𝐢𝐚𝐭𝐞𝐝, 𝐭𝐡𝐨𝐮𝐠𝐡 𝐛𝐞 𝐰𝐚𝐫𝐲 𝐬𝐨𝐦𝐞 𝐨𝐟 𝐮𝐬 𝐝𝐨𝐧'𝐭 𝐮𝐬𝐞 𝐭𝐨𝐧𝐞 𝐭𝐚𝐠𝐬.}}}}$ </sub> ${{\color{cyan}{\texttt{⤵}}}}$
+
+
+${{\color{cyan}{\texttt{𝙇𝙞𝙣𝙠𝙨}}}}$ ${{\color{blue}{\texttt{╰⭑.ᐟ𓂃}}}}$ ${{\color{cyan}{\texttt{: :}}}}$ [🍀`` @,,- 《 {  [Link Tree](https://linktr.ee/FormTak3rzz)
+ } . . . { [── .✦ 🌟 Ata](https://ssc.atabook.org/) }
+  . . . { [╭ ♡‧₊🫧 Strawpage](https://luminescentoceans.straw.page/) }
+  . . . { [: ''◟∫ 🌊¯ Front / Sys info](https://pluralkit.xyz/f/gkrvpo)
+  . . . {[.𖥔 ݁ ˖  { Prns.cc (wip)](https://pronouns.cc/@Luminescent_Oceans_Sys) }
+
+# <p align="center"> ${{\color{#0e1271}\Huge{\texttt{╚════·:·.✧}}}}$ ${{\color{#59A1C1}\Huge{\texttt{  𐔌   .  ⋮ }}}}$ ${{\color{cyan}\Huge{\texttt{𝙄𝙣𝙛𝙤}}}}$ ${{\color{#59A1C1}\Huge{\texttt{  .ᐟ  ֹ   ₊ ꒱ }}}}$  ${{\color{#0e1271}\Huge{\texttt{✧.·:·════╝}}}}$ </p>
+
 <p align="center"> $${\color{blue}
-  Ocean    or    Bio    Collectively }$$
+♡ }$$
+<p align="center"> $${\color{cyan}
+꧁ ☬ ꧂ }$$
+<p align="center"> $${\color{blue}
+★ }$$
 <p align="center"> $${\color{cyan}
   ⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵. ˚ ₊⊹  }$$
-<p align="center"> $${\color{blue}
-  info  below }$$
 
-<p align="center"> ${{\color{#59A1C1}{\texttt{╔═════ ≪ °•°♡°•° ≫ ═════╗}}}}$ </p>
+# <p align="center"> ${{\color{#0e1271}\Huge{\texttt{╔═════ ≪}}}}$ ${{\color{#59A1C1}\Huge{\texttt{  𐔌   .  ⋮ }}}}$ ${{\color{cyan}\Huge{\texttt{𝙀𝙭𝙩𝙧𝙖}}}}$ ${{\color{#59A1C1}\Huge{\texttt{  .ᐟ  ֹ   ₊ ꒱ }}}}$ ${{\color{#0e1271}\Huge{\texttt{≫ ═════╗}}}}$</p>
 
- ►─═  𝟙𝟡+ 𝕒𝕣𝕖 𝕠𝕟 **𝕥𝕙𝕚𝕟 𝕚𝕔𝕖** , 𝕕𝕟𝕚 𝕦𝕟𝕝𝕖𝕤𝕤 𝕥𝕠𝕝𝕕 𝕠𝕥𝕙𝕖𝕣𝕨𝕚𝕤𝕖. ═─◄
+Ill be doing README repository requests for free, request on ata with github and discord username attached. Discord being used for an easy way of communication on what themes, text, and colors you may want. Send us a friend req on discord, ``olliezzwonderland``
 
- Fict/Introj hvy due to neurodivergency
+<sub> ill try my best to reply, and make this an efficient way </sub>
 
-**𝕓𝕒𝕤𝕚𝕔 𝕕𝕟𝕚 ,** .𝕔𝕔 𝕎𝕀ℙ  , 𝔻𝕀𝔻𝕤𝕪𝕤 , **𝕕𝕚𝕒𝕘𝕟𝕠𝕤𝕖𝕕 × 𝕓𝕠𝕕𝕚𝕝𝕪 𝕞𝕚𝕟𝕠𝕣,** 𝕚𝕨𝕔
+You can also request spotify playlists on our strawpage!! ``may take a while for a reply and creation``
 
-  _𝕎𝕖 𝕕𝕠𝕟'𝕥 𝕙𝕒𝕧𝕖 𝕒 𝕓𝕚𝕘 𝕕𝕟𝕚 𝕝𝕚𝕤𝕥 , 𝕞𝕠𝕤𝕥 𝕠𝕗 𝕦𝕤 𝕓𝕝𝕠𝕔𝕜 𝕗𝕣𝕖𝕖𝕝𝕪_
+# <p align="center"> ${{\color{#0e1271}\Huge{\texttt{╚════·:·.✧}}}}$ ${{\color{#59A1C1}\Huge{\texttt{  𐔌   .  ⋮ }}}}$ ${{\color{cyan}\Huge{\texttt{𝙀𝙭𝙩𝙧𝙖}}}}$ ${{\color{#59A1C1}\Huge{\texttt{  .ᐟ  ֹ   ₊ ꒱ }}}}$  ${{\color{#0e1271}\Huge{\texttt{✧.·:·════╝}}}}$ </p>
 
 
-'𝕖𝕟𝕕𝕠𝕘𝕖𝕟𝕚𝕔' 𝕤𝕪𝕤𝕥𝕖𝕞𝕤 𝕒𝕣𝕖 𝕠𝕟 𝕧e𝕣𝕪 𝕥𝕙𝕚𝕟 𝕚𝕔𝕖. 𝕋𝕙𝕖𝕣𝕖 𝕔𝕠𝕦𝕝𝕕 𝕓𝕖 𝕣𝕖𝕒𝕤𝕠𝕟𝕤 𝕠𝕟𝕖 𝕥𝕙𝕚𝕟𝕜𝕤 𝕥𝕙𝕖𝕪 𝕞𝕒𝕪 𝕓𝕖 𝕒𝕟 𝕖𝕟𝕕𝕠. 𝕀𝕗 𝕪𝕠𝕦 𝕗𝕒𝕜𝕖 𝕒 𝕕𝕚𝕤𝕠𝕣𝕕𝕖𝕣 𝕗𝕠𝕣 𝕪𝕠𝕦𝕣 𝕠𝕨𝕟 𝕤𝕖𝕝𝕗 𝕘𝕒𝕚𝕟, 𝕔𝕝𝕒𝕚𝕞𝕚𝕟𝕘 𝕥𝕠 𝕓𝕖 𝕖𝕟𝕕𝕠𝕘𝕖𝕟𝕚𝕔 𝕒𝕤 𝕒𝕟 𝕖𝕩𝕔𝕦𝕤𝕖 𝕚𝕤 𝕦𝕟𝕒𝕔𝕔𝕖𝕡𝕥𝕒𝕓𝕝𝕖. ℙ𝕝𝕖𝕒𝕤𝕖 𝕕𝕠𝕟'𝕥 𝕚𝕟𝕥𝕖𝕣𝕒𝕔𝕥 𝕨𝕚𝕥𝕙 𝕦𝕤.
-
- ᴬ ˡᵒⁿᵍᵉʳ ˡⁱˢᵗ ʷⁱˡˡ ᵇᵉ ʷʳⁱᵗᵗᵉⁿ ⁱⁿ ᵗʰᵉ ᶠᵘᵗᵘʳᵉ. ᴵⁿ ᵗʰᵉ ᵐᵒᵐᵉⁿᵗ ᵗʰᵒᵘᵍʰ ʷᵉ ʲᵘˢᵗ ᵈᵒⁿ'ᵗ ʳᵉᵃˡˡʸ ʰᵃᵛᵉ ᵗʰᵉ ᵐᵒᵗⁱᵛᵃᵗⁱᵒⁿ ᵗᵒ ʷᵒʳᵏ ᵒʳ ᵈᵒ ᵃⁿʸᵗʰⁱⁿᵍ. ᵀʰᵉ ᵒⁿᵉˢ ʷʰᵒ ᵈᵒ ʷᵒʳᵏ, ᵃʳᵉ ᵇᵘˢʸ ᵃⁿᵈ ᵈᵒⁿ'ᵗ ʰᵃᵛᵉ ᵗⁱᵐᵉ ᵗᵒ ᵖˡᵉᵃˢᵉ ᵖᵉᵒᵖˡᵉ ᵒⁿ ᵗʰᵉ ⁱⁿᵗᵉʳⁿᵉᵗ.
-
-<p align="center"> ${{\color{#59A1C1}{\texttt{╚════·:·.✧《 𓏵 ] ✧.·:·════╝}}}}$ </p>
-
-[🍀`` @,,- 《 Link Tree](https://linktr.ee/FormTak3rzz)
-
-[── .✦ 🌟 Ata Book](https://ssc.atabook.org/)
-
-[╭ ♡‧₊🫧 Straw Page](https://luminescentoceans.straw.page/)
-
-[: ''◟∫ 🌊¯ Frontspace / Sys info](https://pluralkit.xyz/f/gkrvpo)
-
-[.𖥔 ݁ ˖  { Pronouns.cc (wip)](https://pronouns.cc/@Luminescent_Oceans_Sys)
-
-if this feels familiar at all, we had to remake our GitHub because we lost our password to it.
-
- 🐾`` @,,- 《 Hosts change a lot ,
-
-</div>
-
-<div align="center">
- 
- 
- ![bioplankton](https://komarev.com/ghpvc/?username=LuminescentOceansSys&abbreviated=true&label=Bioplankton&color=59A1C1)
- 
-
-![1000000840](https://github.com/user-attachments/assets/89a68ef9-ba7d-49d2-89bd-84bec8f0b91a)
-
+<div align="left">
   
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=00ffff)](https://github.com/kittinan/spotify-github-profile) </div>
 
-[^1]:[(https://open.spotify.com/user/31t6iahnmjtxuosnnwfe3dhwkcsa?si=4JTg4ga7QimpMi56UOJsiA)]
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=00ffff)](https://github.com/kittinan/spotify-github-profile)
-
-if anything looks weird on the mobile app I want to apologize. we recently downloaded the app for Android and for some reason doesn't properly display what we had coded. we do everything on mobile, so, if there's any way to fix this lmk 🙏
-
-I'd like to start working on this from the app instead of the website. though the web is much easier the app is way more accessible.
-
- <p align="center">
+<div align="left">
   
-  ${{\color{#31E0F7}\Huge{\texttt{still learning}}}}$ </p>
-
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuminescentOceansSys&show_icons=true&theme=vue-dark) </div>
